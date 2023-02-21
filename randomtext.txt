@@ -1,3 +1,0 @@
-Some random text
-This is to test pushing on a separate branch
-I like apples
